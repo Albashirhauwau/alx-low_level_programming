@@ -1,8 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+
 /**
- * Main:  random number to the variable
+ * main -  random number to the variable
  *
  * Return: Always return 0 (success)
  *
