@@ -2,9 +2,12 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * Main:  random number to the variable 
+ * Main:  random number to the variable
+ *
  * Return: Always return 0 (success)
+ *
  */
+
 int main(void)
 {
 	int n;
